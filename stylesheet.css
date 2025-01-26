@@ -1,0 +1,57 @@
+.real-header{
+    background-color: #1f2937;
+} 
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+    background-color: #1f2937;
+}
+.header-text{
+    font-size: 24px;
+    color: #f9faf9
+}
+.links {
+    display: flex;
+    gap: 12px;
+    text-decoration: none;
+}
+.header-content{
+    display: flex;
+}
+.text{
+   display: flex;
+   flex-direction: column;
+   margin-left: 48px;
+   margin-top: 48px;
+   margin-bottom: 48px;
+
+}
+.text-1{
+  font-size: 48px;
+  font-weight: 900; 
+  width: 350px; 
+  color: #f9faf8;
+}
+.text-2{
+    width: 300px;
+}
+.pic{
+    margin-top: 48px;
+    margin-left: 12px;
+}
+.button{
+    width: 100px;
+    
+}
+.center{
+    display: flex;
+    flex-direction: column;
+}
+.center-text{
+    align-self: center;
+
+}
+
+
